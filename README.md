@@ -97,6 +97,20 @@ Além do Suporte, o Sistelia Connect inclui um CRM integrado para gerenciar o re
 - Integração via **webhooks** configuráveis
 - **Relatórios** de desempenho comercial
 
+## 📋 Projetos — Módulo sob demanda
+
+> **⚠️ Disponível sob demanda** — Este módulo é ativado mediante solicitação e pode envolver custos adicionais conforme o plano contratado. Entre em contato através do [sisteliaconnect.com.br](https://sisteliaconnect.com.br).
+
+Ideal para empresas que precisam vincular chamados de suporte a projetos em andamento — como agências, software houses e consultorias.
+
+- **Projetos** com equipes e papéis definidos por membro
+- **Sprints** com status, datas de início e fim
+- **Tarefas** com tipo, prioridade, status e responsáveis
+- **Kanban** board visual por projeto
+- **Log de tempo** por tarefa
+- **Comentários** e **anexos** nas tarefas
+- **Histórico de atividades** do projeto
+
 ---
 
 ## Painéis & Acesso
